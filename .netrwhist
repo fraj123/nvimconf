@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/fmejia/.config/nvim'
+let g:netrw_dirhist_6='/home/fmejia/Documents/devops-bootcamp/development-with-java/lambda-expression/src'
+let g:netrw_dirhist_5='/home/fmejia/Documents/devops-bootcamp/development-with-java/lambda-expression'
+let g:netrw_dirhist_4='/home/fmejia/Documents/devops-bootcamp/development-with-java/lambda-expression/src'
+let g:netrw_dirhist_3='/home/fmejia/Documents/devops-bootcamp/development-with-java/lambda-expression'
+let g:netrw_dirhist_2='/home/fmejia/Documents/Projects/hello-world'
+let g:netrw_dirhist_1='/home/fmejia/Documents/Projects/hello-world/src/main/java/com/franz/hello-world'
+let g:netrw_dirhist_0='/home/fmejia/Documents/Projects/hello-world/src/main/java/com/franz'
+let g:netrw_dirhist_9='/home/fmejia/Documents/Projects/hello-world/src/main/java/com'
+let g:netrw_dirhist_8='/home/fmejia/Documents/Projects/hello-world/src/main/java'
